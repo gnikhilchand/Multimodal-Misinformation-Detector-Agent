@@ -1,3 +1,5 @@
 FEVER TRAIN DATASET: https://drive.google.com/file/d/1NjvoUnUNAmVPSse1mhRSKQNbarsMThFA/view?usp=sharing
 
 FEVER TEST DATASET: https://drive.google.com/file/d/1l3xenzzCeufTL5Edo5LASNjZf2HPmfAM/view?usp=sharing
+
+LIAR DATASET:https://www.kaggle.com/datasets/doanquanvietnamca/liar-dataset
