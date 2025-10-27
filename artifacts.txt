@@ -1,0 +1,5 @@
+FEVER Training Dataset: https://drive.google.com/file/d/1NjvoUnUNAmVPSse1mhRSKQNbarsMThFA/view?usp=sharing
+
+wiki_index.pkl : https://drive.google.com/file/d/1EKMB4ULyhTdeOh7cUZRuno9ofRmsppXO/view?usp=sharing
+
+Fine-Tuned text model (microsoft/deberta-v3-base) : https://drive.google.com/file/d/1Sf2DoVaYBqBcdvonf6GJpo_bLWATSgeq/view?usp=sharing
