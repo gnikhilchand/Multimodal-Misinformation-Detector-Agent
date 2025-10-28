@@ -1,5 +1,9 @@
-FEVER Training Dataset: https://drive.google.com/file/d/1NjvoUnUNAmVPSse1mhRSKQNbarsMThFA/view?usp=sharing
+Text Dataset (FEVER) : https://drive.google.com/file/d/1NjvoUnUNAmVPSse1mhRSKQNbarsMThFA/view?usp=sharing
+
+Image Dataset : https://www.kaggle.com/datasets/tristanzhang32/ai-generated-images-vs-real-images/data
 
 wiki_index.pkl : https://drive.google.com/file/d/1EKMB4ULyhTdeOh7cUZRuno9ofRmsppXO/view?usp=sharing
 
 Fine-Tuned text model (microsoft/deberta-v3-base) : https://drive.google.com/file/d/1Sf2DoVaYBqBcdvonf6GJpo_bLWATSgeq/view?usp=sharing
+
+Fine-Tuned Image model (clip-vit-base-patch32) : https://drive.google.com/file/d/19xRLjNtGWty9loc0_6LPjIYOl-EIf2bm/view?usp=sharing
