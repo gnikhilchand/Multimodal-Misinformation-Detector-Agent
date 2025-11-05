@@ -5,14 +5,19 @@ This repository contains all materials developed for the **Multimodal Misinforma
 ## Repository Organization  
 ```
 ├── code/  
-│   ├── image_eda.ipynb              
-│   ├── image_finetuning.ipynb         
-│   ├── text_preprocessing.ipynb     
-│   ├── text_eda_liar_dataset.ipynb  
-│   ├── text_finetuning.ipynb        
+|   ├──EDA_Preprocessing
+│   |   ├── fever_train_ready.jsonl
+│   │   ├── image_eda.ipynb              
+│   │   ├── text_eda_liar_dataset.ipynb         
+│   |   ├── text_preprocessing.ipynb     
+│   |  
+│   ├──Finetuning
+│   │   ├── clip_finetuning.ipynb
+|   │   ├── deberta_finetuning.ipynb
+|   |   ├── Gemma3-270m_finetuning.ipynb
+|   │        
 │   ├── text_benchmarking.ipynb      
-│   ├── fever_train_ready.jsonl                      
-│  
+│                         
 ├── Milestone1_Report.pdf            
 ├── Milestone2_Report.pdf            
 ├── Milestone3_Report.pdf            
@@ -27,9 +32,8 @@ This repository contains all materials developed for the **Multimodal Misinforma
    Review the milestone reports in order. Each document is self-contained and collectively describes the complete research process — from conceptualization and dataset preparation to model development and training analysis.
 
 2. **Code Exploration**  
-   The `/code/` directory contains Jupyter notebooks that correspond to each experimental phase:
-   - *Text Pipeline:* `text_preprocessing.ipynb` → `text_finetuning.ipynb` → `text_benchmarking.ipynb`  
-   - *Image Pipeline:* `image_eda.ipynb` → `image_finetuning.ipynb`  
+   The `/code/` directory contains Jupyter notebooks that correspond to the experimental phases EDA + Preprocessing, Fine-tuning, and Benchmarking.
+    
    Each notebook includes structured markdown cells detailing objectives, methodology, and observations.
 
 3. **Dataset and Artifacts**  
