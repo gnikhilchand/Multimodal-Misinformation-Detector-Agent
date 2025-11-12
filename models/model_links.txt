@@ -1,0 +1,5 @@
+Fine-Tuned text model (microsoft/deberta-v3-base) : https://huggingface.co/rajyalakshmijampani/fever_finetuned_deberta
+
+Fine-Tuned text model (Gemma3-270m) : https://drive.google.com/file/d/1uOOU52-fLTMN240-t34u2nQH0u79xwEO/view?usp=sharing
+
+Fine-Tuned Image model (clip-vit-base-patch32) : https://huggingface.co/rajyalakshmijampani/finetuned_clip

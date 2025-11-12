@@ -1,0 +1,10 @@
+gradio
+torch
+transformers
+requests
+wikipedia-api 
+wikipedia 
+sentence-transformers 
+scikit-learn
+tavily-python
+huggingface-hub

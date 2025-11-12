@@ -1,0 +1,5 @@
+Text Dataset (FEVER) : https://drive.google.com/file/d/1NjvoUnUNAmVPSse1mhRSKQNbarsMThFA/view?usp=sharing
+
+Image Dataset : https://www.kaggle.com/datasets/tristanzhang32/ai-generated-images-vs-real-images/data
+
+wiki_index.pkl : https://drive.google.com/file/d/1EKMB4ULyhTdeOh7cUZRuno9ofRmsppXO/view?usp=sharing
