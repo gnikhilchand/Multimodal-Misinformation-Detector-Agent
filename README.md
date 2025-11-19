@@ -44,7 +44,8 @@ MULTIMODAL-MISINFORMATION-DETECTOR-AGENT/
 │   ├── Milestone3_Report.pdf  
 │   ├── Milestone4_Report.pdf  
 │   ├── Milestone5_Report.pdf  
-│   └── Milestone6_Report.pdf  
+│   └── Milestone6_Report.pdf
+│   └── Final_Report.pdf
 │  
 ├── requirements.txt                 # Python dependencies  
 ├── README.md                        # High-level project overview
